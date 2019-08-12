@@ -1,4 +1,4 @@
-# breast-density-analysis
+# Breast Density Analysis: DDSM & mini-MIAS
 The Deep Learning component for breast density classification.
 
 
