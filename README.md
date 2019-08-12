@@ -12,3 +12,6 @@ Imaging Systems & Techniques
 IEEE IST 2019
 
 Abu Dhabi, UAE
+
+
+https://github.com/trivizakis/easyConvNet
