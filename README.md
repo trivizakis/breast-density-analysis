@@ -16,7 +16,7 @@ IEEE IST 2019
 Abu Dhabi, UAE
 
 <hr>
-use hypes files with:
+use hypes file with:
 https://github.com/trivizakis/easyConvNet
 
 <hr>
